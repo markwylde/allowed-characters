@@ -11,7 +11,7 @@ Throw an error if a string contains unallowed characters
 ## Installation
 
 ```bash
-npm i --save allowed-characters
+npm i --save allowedcharacters
 ```
 
 ## Usage
